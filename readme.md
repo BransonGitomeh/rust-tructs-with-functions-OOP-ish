@@ -1,0 +1,1 @@
+simple structs with functions, some functions return other structs to simulate what it would look like writing a normal day to dat application with an OOP like structure, fully typed
